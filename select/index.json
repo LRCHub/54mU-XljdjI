@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "バースデー",
+  "base_artist": "DISH//",
+  "createdAt": "2026-02-07T23:37:14.888297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピー・バースデー",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/01_ハッピー・バースデー_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピー☆ラッキー・バースデー!",
+      "artist": "水田わさび (ドラえもん), 大原めぐみ (のび太), かかずゆみ (しずか), 木村 昴 (ジャイアン) & 関 智一 (スネ夫)",
+      "has_synced": true,
+      "path": "select/02_ハッピー☆ラッキー・バースデー!_水田わさび_(ドラえもん),_大原めぐみ_(のび太),_かかずゆみ_(しずか),_木村_昴_(ジャイアン)_&_関_智一_(スネ夫).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピー☆ラッキー・バースデー！",
+      "artist": "水田わさび(ドラえもん) / 大原めぐみ(のび太) / かかずゆみ(しずか) / 関智一(スネ夫) / 木村昴(ジャイアン)",
+      "has_synced": true,
+      "path": "select/03_ハッピー☆ラッキー・バースデー!_水田わさび(ドラえもん)___大原めぐみ(のび太)___かかずゆみ(しずか)___関智一(スネ夫)___木村昴(ジャイアン).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バースデー",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/04_バースデー_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バースデー",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_バースデー_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハッピー♡スイート♡バースデー!",
+      "artist": "Ayaka Sasaki",
+      "has_synced": true,
+      "path": "select/06_ハッピー♡スイート♡バースデー!_Ayaka_Sasaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハッピー☆ラッキー・バースデー!",
+      "artist": "水田わさび",
+      "has_synced": true,
+      "path": "select/07_ハッピー☆ラッキー・バースデー!_水田わさび.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハッピー☆ラッキー・バースデー!",
+      "artist": "水田わさび (ドラえもん)",
+      "has_synced": true,
+      "path": "select/08_ハッピー☆ラッキー・バースデー!_水田わさび_(ドラえもん).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バースデー",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_バースデー_DISH.txt"
+    }
+  ]
+}
